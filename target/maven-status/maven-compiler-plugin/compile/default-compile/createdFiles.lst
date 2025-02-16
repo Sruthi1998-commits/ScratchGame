@@ -1,6 +1,9 @@
-com\scratchgame\MatrixGenerator.class
-com\scratchgame\RewardCalculator.class
-com\scratchgame\ConfigLoader.class
+com\scratchgame\GameResult.class
+com\scratchgame\GameEngine.class
+com\scratchgame\ProbabilityBonus.class
+com\scratchgame\Config.class
+com\scratchgame\WinCombination.class
 com\scratchgame\Main.class
+com\scratchgame\Probabilities.class
+com\scratchgame\ProbabilityEntry.class
 com\scratchgame\Symbol.class
-com\scratchgame\Game.class
