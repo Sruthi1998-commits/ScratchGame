@@ -12,13 +12,13 @@ This project implements a **Scratch Game** that evaluates a given **game matrix*
 
 ## File Structure  
 
-src/ ├── 📄 GameEngine.java # Core logic for calculating game rewards
-├── 📄 Config.java # Configuration for symbols and win combinations
-├── 📄 GameResult.java # Stores the final game results
-├── 📄 Main.java # Entry point for running the game
-├── 📄 Probabilities.java # Configuration for Probabilities given in config.json file
-├── 📄 Symbol.java # Configuration for Symbols given in config.json file
-├── 📄 WinCombination.java # Configuration for WinCombination given in config.json file
+src/ ├── 📄 GameEngine.java # Core logic for calculating game rewards.  
+├── 📄 Config.java # Configuration for symbols and win combinations.  
+├── 📄 GameResult.java # Stores the final game results.  
+├── 📄 Main.java # Entry point for running the game.  
+├── 📄 Probabilities.java # Configuration for Probabilities given in config.json file.  
+├── 📄 Symbol.java # Configuration for Symbols given in config.json file.  
+├── 📄 WinCombination.java # Configuration for WinCombination given in config.json file.  
 
 
 Future Scope : 
