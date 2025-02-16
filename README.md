@@ -2,6 +2,7 @@
 
 ## Overview  
 This project implements a **Scratch Game** that evaluates a given **game matrix** and calculates rewards based on predefined rules.  
+Build using Jdk "1.8.0_202", Apache Maven 3.9.9
 
 ## Features  
 - Detects **winning combinations** based on standard and linear symbol matches.  
