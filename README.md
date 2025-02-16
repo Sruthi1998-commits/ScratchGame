@@ -12,7 +12,7 @@ This project implements a **Scratch Game** that evaluates a given **game matrix*
 
 ## File Structure  
 
-src/ 
+src/  
 ├── 📄 GameEngine.java # Core logic for calculating game rewards.  
 ├── 📄 Config.java # Configuration for symbols and win combinations.  
 ├── 📄 GameResult.java # Stores the final game results.  
